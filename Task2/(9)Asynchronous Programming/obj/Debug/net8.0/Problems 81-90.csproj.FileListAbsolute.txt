@@ -1,0 +1,15 @@
+C:\Users\karth\Project\Problems 81-90\obj\Debug\net8.0\Problems 81-90.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karth\Project\Problems 81-90\obj\Debug\net8.0\Problems 81-90.AssemblyInfoInputs.cache
+C:\Users\karth\Project\Problems 81-90\obj\Debug\net8.0\Problems 81-90.AssemblyInfo.cs
+C:\Users\karth\Project\Problems 81-90\obj\Debug\net8.0\Problems 81-90.csproj.CoreCompileInputs.cache
+C:\Users\karth\Project\Problems 81-90\bin\Debug\net8.0\Problems 81-90.exe
+C:\Users\karth\Project\Problems 81-90\bin\Debug\net8.0\Program.cs
+C:\Users\karth\Project\Problems 81-90\bin\Debug\net8.0\Problems 81-90.deps.json
+C:\Users\karth\Project\Problems 81-90\bin\Debug\net8.0\Problems 81-90.runtimeconfig.json
+C:\Users\karth\Project\Problems 81-90\bin\Debug\net8.0\Problems 81-90.dll
+C:\Users\karth\Project\Problems 81-90\bin\Debug\net8.0\Problems 81-90.pdb
+C:\Users\karth\Project\Problems 81-90\obj\Debug\net8.0\Problems 81-90.dll
+C:\Users\karth\Project\Problems 81-90\obj\Debug\net8.0\refint\Problems 81-90.dll
+C:\Users\karth\Project\Problems 81-90\obj\Debug\net8.0\Problems 81-90.pdb
+C:\Users\karth\Project\Problems 81-90\obj\Debug\net8.0\Problems 81-90.genruntimeconfig.cache
+C:\Users\karth\Project\Problems 81-90\obj\Debug\net8.0\ref\Problems 81-90.dll
