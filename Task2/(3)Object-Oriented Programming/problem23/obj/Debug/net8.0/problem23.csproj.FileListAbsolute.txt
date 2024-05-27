@@ -1,0 +1,14 @@
+C:\Users\karth\Project\problem23\bin\Debug\net8.0\problem23.exe
+C:\Users\karth\Project\problem23\bin\Debug\net8.0\problem23.deps.json
+C:\Users\karth\Project\problem23\bin\Debug\net8.0\problem23.runtimeconfig.json
+C:\Users\karth\Project\problem23\bin\Debug\net8.0\problem23.dll
+C:\Users\karth\Project\problem23\bin\Debug\net8.0\problem23.pdb
+C:\Users\karth\Project\problem23\obj\Debug\net8.0\problem23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karth\Project\problem23\obj\Debug\net8.0\problem23.AssemblyInfoInputs.cache
+C:\Users\karth\Project\problem23\obj\Debug\net8.0\problem23.AssemblyInfo.cs
+C:\Users\karth\Project\problem23\obj\Debug\net8.0\problem23.csproj.CoreCompileInputs.cache
+C:\Users\karth\Project\problem23\obj\Debug\net8.0\problem23.dll
+C:\Users\karth\Project\problem23\obj\Debug\net8.0\refint\problem23.dll
+C:\Users\karth\Project\problem23\obj\Debug\net8.0\problem23.pdb
+C:\Users\karth\Project\problem23\obj\Debug\net8.0\problem23.genruntimeconfig.cache
+C:\Users\karth\Project\problem23\obj\Debug\net8.0\ref\problem23.dll
