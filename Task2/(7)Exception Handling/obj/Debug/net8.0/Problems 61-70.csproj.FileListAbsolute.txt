@@ -1,0 +1,14 @@
+C:\Users\karth\Project\Problems 61-70\obj\Debug\net8.0\Problems 61-70.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karth\Project\Problems 61-70\obj\Debug\net8.0\Problems 61-70.AssemblyInfoInputs.cache
+C:\Users\karth\Project\Problems 61-70\obj\Debug\net8.0\Problems 61-70.AssemblyInfo.cs
+C:\Users\karth\Project\Problems 61-70\obj\Debug\net8.0\Problems 61-70.csproj.CoreCompileInputs.cache
+C:\Users\karth\Project\Problems 61-70\bin\Debug\net8.0\Problems 61-70.exe
+C:\Users\karth\Project\Problems 61-70\bin\Debug\net8.0\Problems 61-70.deps.json
+C:\Users\karth\Project\Problems 61-70\bin\Debug\net8.0\Problems 61-70.runtimeconfig.json
+C:\Users\karth\Project\Problems 61-70\bin\Debug\net8.0\Problems 61-70.dll
+C:\Users\karth\Project\Problems 61-70\bin\Debug\net8.0\Problems 61-70.pdb
+C:\Users\karth\Project\Problems 61-70\obj\Debug\net8.0\Problems 61-70.dll
+C:\Users\karth\Project\Problems 61-70\obj\Debug\net8.0\refint\Problems 61-70.dll
+C:\Users\karth\Project\Problems 61-70\obj\Debug\net8.0\Problems 61-70.pdb
+C:\Users\karth\Project\Problems 61-70\obj\Debug\net8.0\Problems 61-70.genruntimeconfig.cache
+C:\Users\karth\Project\Problems 61-70\obj\Debug\net8.0\ref\Problems 61-70.dll
