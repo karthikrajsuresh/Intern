@@ -1,0 +1,14 @@
+C:\Users\karth\Project\problems 31-40\bin\Debug\net8.0\problems 31-40.exe
+C:\Users\karth\Project\problems 31-40\bin\Debug\net8.0\problems 31-40.deps.json
+C:\Users\karth\Project\problems 31-40\bin\Debug\net8.0\problems 31-40.runtimeconfig.json
+C:\Users\karth\Project\problems 31-40\bin\Debug\net8.0\problems 31-40.dll
+C:\Users\karth\Project\problems 31-40\bin\Debug\net8.0\problems 31-40.pdb
+C:\Users\karth\Project\problems 31-40\obj\Debug\net8.0\problems 31-40.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karth\Project\problems 31-40\obj\Debug\net8.0\problems 31-40.AssemblyInfoInputs.cache
+C:\Users\karth\Project\problems 31-40\obj\Debug\net8.0\problems 31-40.AssemblyInfo.cs
+C:\Users\karth\Project\problems 31-40\obj\Debug\net8.0\problems 31-40.csproj.CoreCompileInputs.cache
+C:\Users\karth\Project\problems 31-40\obj\Debug\net8.0\problems 31-40.dll
+C:\Users\karth\Project\problems 31-40\obj\Debug\net8.0\refint\problems 31-40.dll
+C:\Users\karth\Project\problems 31-40\obj\Debug\net8.0\problems 31-40.pdb
+C:\Users\karth\Project\problems 31-40\obj\Debug\net8.0\problems 31-40.genruntimeconfig.cache
+C:\Users\karth\Project\problems 31-40\obj\Debug\net8.0\ref\problems 31-40.dll
