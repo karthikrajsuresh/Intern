@@ -1,0 +1,4 @@
+C:\Users\karth\Project\Problems 51-60\obj\Debug\net8.0\Problems 51-60.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karth\Project\Problems 51-60\obj\Debug\net8.0\Problems 51-60.AssemblyInfoInputs.cache
+C:\Users\karth\Project\Problems 51-60\obj\Debug\net8.0\Problems 51-60.AssemblyInfo.cs
+C:\Users\karth\Project\Problems 51-60\obj\Debug\net8.0\Problems 51-60.csproj.CoreCompileInputs.cache
