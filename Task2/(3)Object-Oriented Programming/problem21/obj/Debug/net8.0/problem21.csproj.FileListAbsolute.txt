@@ -1,0 +1,14 @@
+C:\Users\karth\Project\problem21\bin\Debug\net8.0\problem21.exe
+C:\Users\karth\Project\problem21\bin\Debug\net8.0\problem21.deps.json
+C:\Users\karth\Project\problem21\bin\Debug\net8.0\problem21.runtimeconfig.json
+C:\Users\karth\Project\problem21\bin\Debug\net8.0\problem21.dll
+C:\Users\karth\Project\problem21\bin\Debug\net8.0\problem21.pdb
+C:\Users\karth\Project\problem21\obj\Debug\net8.0\problem21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karth\Project\problem21\obj\Debug\net8.0\problem21.AssemblyInfoInputs.cache
+C:\Users\karth\Project\problem21\obj\Debug\net8.0\problem21.AssemblyInfo.cs
+C:\Users\karth\Project\problem21\obj\Debug\net8.0\problem21.csproj.CoreCompileInputs.cache
+C:\Users\karth\Project\problem21\obj\Debug\net8.0\problem21.dll
+C:\Users\karth\Project\problem21\obj\Debug\net8.0\refint\problem21.dll
+C:\Users\karth\Project\problem21\obj\Debug\net8.0\problem21.pdb
+C:\Users\karth\Project\problem21\obj\Debug\net8.0\problem21.genruntimeconfig.cache
+C:\Users\karth\Project\problem21\obj\Debug\net8.0\ref\problem21.dll
