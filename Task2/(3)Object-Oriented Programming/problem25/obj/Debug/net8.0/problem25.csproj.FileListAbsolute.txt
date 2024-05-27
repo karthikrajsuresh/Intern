@@ -1,0 +1,14 @@
+C:\Users\karth\Project\problem25\obj\Debug\net8.0\problem25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karth\Project\problem25\obj\Debug\net8.0\problem25.AssemblyInfoInputs.cache
+C:\Users\karth\Project\problem25\obj\Debug\net8.0\problem25.AssemblyInfo.cs
+C:\Users\karth\Project\problem25\obj\Debug\net8.0\problem25.csproj.CoreCompileInputs.cache
+C:\Users\karth\Project\problem25\bin\Debug\net8.0\problem25.exe
+C:\Users\karth\Project\problem25\bin\Debug\net8.0\problem25.deps.json
+C:\Users\karth\Project\problem25\bin\Debug\net8.0\problem25.runtimeconfig.json
+C:\Users\karth\Project\problem25\bin\Debug\net8.0\problem25.dll
+C:\Users\karth\Project\problem25\bin\Debug\net8.0\problem25.pdb
+C:\Users\karth\Project\problem25\obj\Debug\net8.0\problem25.dll
+C:\Users\karth\Project\problem25\obj\Debug\net8.0\refint\problem25.dll
+C:\Users\karth\Project\problem25\obj\Debug\net8.0\problem25.pdb
+C:\Users\karth\Project\problem25\obj\Debug\net8.0\problem25.genruntimeconfig.cache
+C:\Users\karth\Project\problem25\obj\Debug\net8.0\ref\problem25.dll
