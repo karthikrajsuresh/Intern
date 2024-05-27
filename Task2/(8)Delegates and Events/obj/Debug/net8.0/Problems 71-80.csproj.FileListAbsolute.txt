@@ -1,0 +1,14 @@
+C:\Users\karth\Project\Problems 71-80\obj\Debug\net8.0\Problems 71-80.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karth\Project\Problems 71-80\obj\Debug\net8.0\Problems 71-80.AssemblyInfoInputs.cache
+C:\Users\karth\Project\Problems 71-80\obj\Debug\net8.0\Problems 71-80.AssemblyInfo.cs
+C:\Users\karth\Project\Problems 71-80\obj\Debug\net8.0\Problems 71-80.csproj.CoreCompileInputs.cache
+C:\Users\karth\Project\Problems 71-80\bin\Debug\net8.0\Problems 71-80.exe
+C:\Users\karth\Project\Problems 71-80\bin\Debug\net8.0\Problems 71-80.deps.json
+C:\Users\karth\Project\Problems 71-80\bin\Debug\net8.0\Problems 71-80.runtimeconfig.json
+C:\Users\karth\Project\Problems 71-80\bin\Debug\net8.0\Problems 71-80.dll
+C:\Users\karth\Project\Problems 71-80\bin\Debug\net8.0\Problems 71-80.pdb
+C:\Users\karth\Project\Problems 71-80\obj\Debug\net8.0\Problems 71-80.dll
+C:\Users\karth\Project\Problems 71-80\obj\Debug\net8.0\refint\Problems 71-80.dll
+C:\Users\karth\Project\Problems 71-80\obj\Debug\net8.0\Problems 71-80.pdb
+C:\Users\karth\Project\Problems 71-80\obj\Debug\net8.0\Problems 71-80.genruntimeconfig.cache
+C:\Users\karth\Project\Problems 71-80\obj\Debug\net8.0\ref\Problems 71-80.dll
