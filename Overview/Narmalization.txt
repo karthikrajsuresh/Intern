@@ -1,0 +1,15 @@
+Narmalization
+
+Normalization is a database design technique used to organize tables and minimize redundancy within a database. It typically involves dividing large tables into smaller, related tables and defining relationships between them. The different normal forms (NF) represent different levels of normalization, each with its own set of rules and requirements.
+
+1. First Normal Form (1NF): In 1NF, the table is organized into rows and columns, and each column contains atomic values, meaning there are no repeating groups or arrays. Each cell of the table must hold a single value, not a list or a set of values.
+
+2. Second Normal Form (2NF): A table is in 2NF if it is in 1NF and all non-key attributes are fully functionally dependent on the entire primary key. This means that no partial dependencies exist; every non-key attribute must depend on the entire primary key, not just a part of it.
+
+3. Third Normal Form (3NF): A table is in 3NF if it is in 2NF and all non-key attributes are non-transitively dependent on the primary key. In other words, there should be no transitive dependencies, where a non-key attribute depends on another non-key attribute.
+
+4. Boyce-Codd Normal Form (BCNF): BCNF is a stricter form of 3NF. A table is in BCNF if, for every one of its dependencies, the left-hand side is a superkey. Essentially, BCNF eliminates certain types of anomalies that can occur in 3NF.
+
+5. Fifth Normal Form (5NF): 5NF, also known as Project-Join Normal Form (PJ/NF), deals with cases where a database uses a join operation to decompose multi-valued facts, ensuring that no join dependency is implied by other dependencies.
+
+Each normal form builds upon the previous one, aiming to reduce redundancy and anomalies in the database design, thereby improving data integrity and efficiency.

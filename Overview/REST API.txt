@@ -1,0 +1,30 @@
+REST API
+Overview
+
+REST (Representational State Transfer) API is an architectural style for designing networked applications. It relies on a stateless, client-server, cacheable communications protocol -- typically HTTP. RESTful applications use HTTP requests to perform CRUD (Create, Read, Update, Delete) operations on resources, which are identified by URLs.
+
+Key Concepts
+
+1. Resources: In REST, everything is considered a resource. Resources are identified by URIs (Uniform Resource Identifiers).
+
+2. HTTP Methods: REST uses standard HTTP methods to perform operations on resources.
+  - GET: Retrieve a resource.
+  - POST: Create a new resource.
+  - PUT: Update an existing resource.
+  - DELETE: Remove a resource.
+  - PATCH: Partially update a resource.
+
+3. Statelessness: Each request from a client to a server must contain all the information needed to understand and process the request. The server does not store client context between requests.
+
+4. Cacheability: Responses must define themselves as cacheable or non-cacheable to improve efficiency.
+
+5. Layered System: REST allows for an architecture composed of hierarchical layers by constraining component behavior.
+
+Benefits
+
+1. Scalability: Statelessness and layered architecture contribute to better scalability.
+2. Flexibility: Can handle multiple types of calls, return different data formats, and change structure with minimal impact on the system.
+3. Independence: Client and server components can be developed independently.
+
+Example: GET /users/123
+A GET request to /users/123 might return the details of a user with ID 123.
