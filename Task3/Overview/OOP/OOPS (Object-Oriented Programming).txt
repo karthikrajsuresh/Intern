@@ -1,0 +1,23 @@
+OOPS (Object-Oriented Programming)
+
+Object-Oriented Programming (OOP) is a programming paradigm that revolves around the concept of "objects." In C#, OOP is heavily used to create modular, maintainable, and scalable code.
+
+Classes and Objects:
+
+1. Classes are blueprints for creating objects. They define properties, methods, events, and fields.
+2. Objects are instances of classes. They represent real-world entities and can interact with each other.
+
+Data Abstraction and Encapsulation:
+
+1. Data abstraction refers to the concept of hiding the internal details and showing only the necessary features of an object.
+2. Encapsulation is the bundling of data and methods that operate on the data into a single unit.
+
+Inheritance and Polymorphism:
+
+1. Inheritance allows a class (subclass/derived class) to inherit properties and behavior from another class (superclass/base class).
+2. Polymorphism allows objects of different classes to be treated as objects of a common superclass.
+
+Dynamic Binding and Message Passing:
+
+1. Dynamic binding allows method calls to be resolved at runtime rather than at compile time.
+2. Message passing is a mechanism for invoking behavior (methods) on objects.

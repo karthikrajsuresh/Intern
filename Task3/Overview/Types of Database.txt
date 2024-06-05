@@ -1,0 +1,14 @@
+Types of Database
+
+Relational Databases:
+
+    SQL Server: A relational database management system (RDBMS) developed by Microsoft. It's widely used in enterprise environments and supports SQL (Structured Query Language).
+    MySQL: An open-source relational database management system. It's known for its reliability, scalability, and ease of use. MySQL also supports SQL.
+    SQLite: A lightweight, embedded relational database engine. It's self-contained, serverless, and doesn't require a separate server process to function. SQLite is often used in mobile and small-scale applications.
+
+NoSQL Databases:
+
+    MongoDB: A popular NoSQL database that uses a document-oriented data model. It's designed for scalability, flexibility, and performance, making it suitable for a wide range of applications.
+    Redis: An in-memory data structure store often used as a cache or message broker. It supports various data structures such as strings, hashes, lists, sets, and sorted sets.
+
+In C#, you can interact with these databases using various libraries and frameworks, such as Entity Framework for relational databases and official drivers or libraries provided by the database vendors for NoSQL databases.

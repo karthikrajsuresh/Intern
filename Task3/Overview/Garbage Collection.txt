@@ -1,0 +1,21 @@
+Garbage Collection
+
+Garbage Collection (GC) in C# is an automatic memory management feature that helps developers manage memory efficiently by automatically reclaiming memory occupied by objects that are no longer in use. Here's how it works:
+
+1. Allocation: When you create an object in C# using the new keyword, memory is allocated from the managed heap for that object.
+
+2. Usage: You use the object as needed in your program.
+
+3. Reference Tracking: The GC keeps track of all references to each object. If there are no references to an object (i.e., it's no longer reachable from any part of the application), it is considered eligible for garbage collection.
+
+4. Garbage Collection: When the system determines that the available memory is running low or when a specific threshold is reached, the GC kicks in. It pauses the execution of your program (known as a "GC pause") and examines all the objects in memory to determine which ones are still in use and which ones can be safely deleted.
+
+5. Mark and Sweep: The GC uses a mark-and-sweep algorithm to identify and reclaim memory occupied by unreachable objects. It starts by marking all reachable objects as "alive" and then sweeps through the heap, deallocating memory for objects that are not marked.
+
+6. Compact: After reclaiming memory, the GC may perform a compacting step, where it rearranges the memory to minimize fragmentation and improve memory locality. This helps in efficient memory allocation in the future.
+
+7. Resume Execution: Once the garbage collection process is complete, the program resumes execution from where it left off.
+
+C# provides managed memory allocation, which means that developers don't need to explicitly deallocate memory (unlike in languages like C or C++ where developers are responsible for memory management). Instead, the GC handles memory deallocation automatically, reducing the chances of memory leaks and segmentation faults.
+
+While GC in C# offers many benefits, it's important to be mindful of how you structure your code to minimize unnecessary object creation and to avoid holding references to objects longer than necessary, as this can impact the performance of the garbage collector and lead to longer pauses in your application.
